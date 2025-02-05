@@ -11,10 +11,7 @@ Simple Spring Boot REST API for polls.
 - Angular, Bootstrap.  
 
 - Start Project
-1. Clone. (Or Download to Desktop)  
-   1.1 bash
-   1.2 cd C:\Users\User (or other)
-   1.3 git clone https://github.com/EvgeniyKrastev/Full-Stack-Polling-App-with-Spring-Boot-Angular.git
+1. Download to Desktop 
 2. Open MySQl and create voting-app DataBase.
 3. Open From Intelij open votingapp\pom.xml.
 4. Start BackEnd From src\main\java\com\voting\votingapp\VotingappApplication .

@@ -1,8 +1,7 @@
 - Polling-App 🚀  
 Simple Spring Boot REST API for polls.
 
-![{03623E32-594D-401A-BD63-0F06F3AB2497}](https://github.com/user-attachments/assets/6686092b-95fd-4254-ba78-0a02dbdf355e)
-
+![{97562C8B-4CBE-4D35-9024-7C912F29F533}](https://github.com/user-attachments/assets/29bbe4e6-58ad-4eb6-a99f-b601d88586d1)
 
 - Technologies
 - Java 17, Spring Boot 3.1.3, Spring Data JPA.

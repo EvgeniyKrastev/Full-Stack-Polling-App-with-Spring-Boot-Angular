@@ -11,8 +11,8 @@ Simple Spring Boot REST API for polls.
 
 ### Start Project ###
 1. Download to Desktop 
-2. Open MySQl and create voting-app DataBase.
-3. Open From Intelij open votingapp\pom.xml.
-4. Start BackEnd From src\main\java\com\voting\votingapp\VotingappApplication .
-5. Open From VS Code poll-app.
-6. Start with npm start.
+2. Open MySQl and create DataBase voting-app .
+3. Open Project From IntelliJ click on file votingapp\pom.xml.
+4. Start BackEnd. Click on Class VotingappApplication from directory src\main\java\com\voting\votingapp.
+6. Open From VS Code directory poll-app.
+7. From terminal Start with npm start.

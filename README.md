@@ -1,7 +1,7 @@
 ### Polling-App ###
 Simple Spring Boot REST API for polls. Polling-App is web app for creating and manage polls with opportunity for vote.
 
-https://github.com/user-attachments/assets/82b08bc9-d120-40f4-8dd8-b1a7f7278a8d
+![{8909D00B-99E8-446A-9062-4F0BD4B49DA5}](https://github.com/user-attachments/assets/82b08bc9-d120-40f4-8dd8-b1a7f7278a8d)
 
 
 ### Technologies ###
